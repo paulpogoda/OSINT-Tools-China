@@ -32,7 +32,6 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [State Taxation Administration](https://www.chinatax.gov.cn)
 - [Credit Horizon](https://www.x315.com).  It can query and automatically monitor the basic and related credit information of any enterprise (more than 80 million) and executives across the country
 - [Belt and Road Portal](https://eng.yidaiyilu.gov.cn/list/c/10080)
-- [List of Chinese Conpanies]
 - [CreditChina](https://www.creditchina.gov.cn)
 - [Jianweidata.com](https://www.jianweidata.com). Provides information services, such as the retrieval and screening of announcements, regulations, and financial data for practitioners. Their data has attracted practitioners in institutions including investment banks, law firms, funds, and listed companies to register and use it.
 - [National Enterprise Bankruptcy Information Disclosure Platform](https://pccz.court.gov.cn/pcajxxw/index/xxwsy)
