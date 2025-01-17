@@ -72,4 +72,4 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [China in Bellingcat's Online Investigations Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit?gid=0#gid=0). May be outdated after [BC GitBok](https://bellingcat.gitbook.io/toolkit) launch
 - [ICIJ Offshore Leaks Database](http://offshoreleaks.icij.org/). A database providing otherwise secret information about more than 810k offshore companies, foundations, and trusts based on leaks like the Panama Papers or the Paradise Papers. [Description in BC GitBook](https://bellingcat.gitbook.io/toolkit/more/all-tools/icij-offshore-leaks-database)
 ## Contributions
-Fell free to add pull request here or join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to add pull request here or join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
