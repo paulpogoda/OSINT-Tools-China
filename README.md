@@ -35,6 +35,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [CreditChina](https://www.creditchina.gov.cn)
 - [Jianweidata.com](https://www.jianweidata.com). Provides information services, such as the retrieval and screening of announcements, regulations, and financial data for practitioners. Their data has attracted practitioners in institutions including investment banks, law firms, funds, and listed companies to register and use it.
 - [National Enterprise Bankruptcy Information Disclosure Platform](https://pccz.court.gov.cn/pcajxxw/index/xxwsy)
+- [Hong Kong Companies Registry](https://www.e-services.cr.gov.hk/ICRIS3EP/system/home.do)
+- [Chinese NGO Directory](https://chinadevelopmentbrief.org/ngo-directory/)
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
@@ -42,6 +44,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Real Estate](https://www.jinmajia.com/xmjs/)
 - [Tencent Maps](http://map.qq.com/)
 - [Badu Maps](http://map.baidu.com/)
+- [Hong kong Land Registry](https://www2.iris.gov.hk/eservices/welcome.jsp?language=en)
 
 ## Vehicles
 - [Chinese Licence Plates Quick Guide](https://jenxi.com/china-vehicle-registration-plates/)
@@ -64,6 +67,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [CuteStat](https://www.cutestat.com/)
 
 ## Appendix
+- [Asia-Pacific Resourses](https://start.me/p/3KMwaw/hbg-asia-pacific-resources) 
 - READ | [Tutorial | Searching in databases - China](https://www.epo.org/en/searching-for-patents/helpful-resources/asian/china/search)
 - READ | [OSINT: Legality and Ethics, And the Case of China](https://osintonchina.com/article/osint:-legality-and-ethics,-and-the-case-of-china/)
 - READ ONCE AGAIN | [The Challenges of Conducting Open Source Research on China](https://www.bellingcat.com/resources/2023/04/18/china-challenges-open-source-osint-social-media/)
