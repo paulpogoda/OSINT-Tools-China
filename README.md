@@ -37,6 +37,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [National Enterprise Bankruptcy Information Disclosure Platform](https://pccz.court.gov.cn/pcajxxw/index/xxwsy)
 - [Hong Kong Companies Registry](https://www.e-services.cr.gov.hk/ICRIS3EP/system/home.do)
 - [Chinese NGO Directory](https://chinadevelopmentbrief.org/ngo-directory/)
+- [QCC | KYC](https://www.qcckyc.com/products-api)
+- [Qixin](https://www.qixin.com/)
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
