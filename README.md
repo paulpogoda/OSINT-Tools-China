@@ -24,6 +24,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [The People's Court Announcement](https://rmfygg.court.gov.cn)
 ## Stock
 - [Shanghai Stock Exchange](https://english.sse.com.cn)
+- [Shenzhen Stock Exchange](https://www.szse.cn/English/)
 - [Hong Kong Stock Exchange](https://www.hkex.com.hk/?sc_lang=en)
 
 ## Legal Entities
