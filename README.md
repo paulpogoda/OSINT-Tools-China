@@ -40,8 +40,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Chinese NGO Directory](https://chinadevelopmentbrief.org/ngo-directory/)
 - [QCC | KYC](https://www.qcckyc.com/products-api)
 - [Qixin](https://www.qixin.com/)
-- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/). Checks the format and check digit of an 18-character Unified Social Credit Identifier in the browser, before you spend a lookup on it. Does not query any registry.
-- [Overseas reachability of official Chinese verification portals](https://currawongweb.com/verify/china-official-source-availability/). 240 measured HTTP observations from 34 countries, plus 50,248 RIPE Atlas network-layer measurements. Three of the eight sources answer normally from abroad (national standards portal, the wenshu judgement database, the trademark office); GSXT returns HTTP 403 on 21 of 24 observations, Credit China and Customs return 412, and the judgement-defaulter search returns 403 everywhere except Hong Kong. The refusals are application-layer: TLS handshakes complete on 92-99 percent of attempts. Relevant before assuming the links above will open for you.
+- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/). Offline check-digit validation for the 18-character business licence code. Queries no registry.
+- [Chinese portal reachability abroad](https://currawongweb.com/verify/china-official-source-availability/). Measured: GSXT returns 403; three of eight sources answer normally.
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
