@@ -40,6 +40,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Chinese NGO Directory](https://chinadevelopmentbrief.org/ngo-directory/)
 - [QCC | KYC](https://www.qcckyc.com/products-api)
 - [Qixin](https://www.qixin.com/)
+- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/). Offline check-digit validation for the 18-character business licence code. Queries no registry.
+- [Chinese portal reachability abroad](https://currawongweb.com/verify/china-official-source-availability/). Measured: GSXT returns 403; three of eight sources answer normally.
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
