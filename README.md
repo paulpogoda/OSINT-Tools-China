@@ -1,5 +1,5 @@
 # OSINT-Tools-China
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1599px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="China_FLAG"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China_FLAG"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option. 
 
 **Be careful! Please read the Bellingcat's article [The Challenges of Conducting Open Source Research on China](https://www.bellingcat.com/resources/2023/04/18/china-challenges-open-source-osint-social-media/) before you start**.
