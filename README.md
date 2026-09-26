@@ -41,7 +41,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [QCC | KYC](https://www.qcckyc.com/products-api)
 - [Qixin](https://www.qixin.com/)
 - [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/). Offline check-digit validation for the 18-character business licence code. Queries no registry.
-- [Chinese portal reachability abroad](https://currawongweb.com/verify/china-official-source-availability/). Measured: GSXT returns 403; three of eight sources answer normally.
+- [Chinese portal reachability abroad](https://currawongweb.com/verify/do-chinese-official-verification-sites-open/#overseas). Measured 26 Aug 2026, 24 requests per host: GSXT returned 403 on 21 of 24; two of eight sources returned 200, a third a 301 redirect.
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
