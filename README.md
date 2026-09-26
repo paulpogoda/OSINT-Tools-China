@@ -2,6 +2,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China_FLAG"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option. 
 
+This repo is a part of the [OSINT for Countries v 2.0 Project](https://github.com/Provereno-Media/OSINT-for-countries-V2.0).
+
+> 🗓️ **Last revisited and updated:** Sept 26, 2026
+
 **Be careful! Please read the Bellingcat's article [The Challenges of Conducting Open Source Research on China](https://www.bellingcat.com/resources/2023/04/18/china-challenges-open-source-osint-social-media/) before you start**.
 
 ## Table of contents:
@@ -81,4 +85,4 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [China in Bellingcat's Online Investigations Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit?gid=0#gid=0). May be outdated after [BC GitBok](https://bellingcat.gitbook.io/toolkit) launch
 - [ICIJ Offshore Leaks Database](http://offshoreleaks.icij.org/). A database providing otherwise secret information about more than 810k offshore companies, foundations, and trusts based on leaks like the Panama Papers or the Paradise Papers. [Description in BC GitBook](https://bellingcat.gitbook.io/toolkit/more/all-tools/icij-offshore-leaks-database)
 ## Contributions
-Feel free to add pull request here or join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to add pull request here or join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
