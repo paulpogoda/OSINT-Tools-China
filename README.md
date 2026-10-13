@@ -1,7 +1,7 @@
 # OSINT-Tools-China
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China_FLAG"/>
 
-> 🗓️ This repo is a part of the [OSINT for Countries v 2.0 Project](https://github.com/Provereno-Media/OSINT-for-countries-V2.0). **Last revisited and updated:** Sept 26, 2026
+> 🗓️ This repo is a part of the [OSINT for Countries v 2.0 Project](https://github.com/Provereno-Media/OSINT-for-countries-V2.0). **Last revisited and updated:** Oct 12, 2026
 
 A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option. 
 
@@ -45,6 +45,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Qixin](https://www.qixin.com/)
 - [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/). Offline check-digit validation for the 18-character business licence code. Queries no registry.
 - [Chinese portal reachability abroad](https://currawongweb.com/verify/do-chinese-official-verification-sites-open/#overseas). Measured 26 Aug 2026, 24 requests per host: GSXT returned 403 on 21 of 24; two of eight sources returned 200, a third a 301 redirect.
+- [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists.
 
 ## Maps
 - [China Map Collection](https://www.virtualshanghai.net/maps/collection?as=67)
