@@ -7,6 +7,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 **Be careful! Please read the Bellingcat's article [The Challenges of Conducting Open Source Research on China](https://www.bellingcat.com/resources/2023/04/18/china-challenges-open-source-osint-social-media/) before you start**.
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-China?label=Last%20updated)
+
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
