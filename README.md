@@ -66,6 +66,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ## People 
 - [Search by Name in China CSE](https://phonebookoftheworld.com/china/#google_vignette). Phone search. Regional search is available
 - [Search for Missing Persons](http://www.110xr.com)
+- [ReadGZH](https://readgzh.site). Paste a public WeChat Official Account (公众号) article link and get clean text/Markdown with images — handy for archiving or translating articles that may later be edited or deleted. Works without sign-up (daily free quota); also has a REST API and MCP server
 
 ## Public procurement
 - [Public Procurement Portal](http://www.ccgp.gov.cn)
